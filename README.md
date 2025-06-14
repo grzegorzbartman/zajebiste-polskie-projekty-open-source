@@ -44,7 +44,7 @@ Kompleksowy system CRM dla firm B2B napisany w Laravel 11. Oferuje zarządzanie 
 ## 🌐 CMS i strony internetowe
 
 ### [Droopler CMS](https://www.droopler.com) – [Drupal.org](https://www.drupal.org/project/droopler)
-Zestaw startowy dla firmowych stron internetowych bazujący na Drupalu. Gotowe komponenty, strony docelowe, responsywność. dużo narzędzi dla SEO.
+Zestaw startowy dla firmowych stron internetowych, stron uczelni i stron urzędów miast bazujący na Drupalu. Gotowe komponenty do tworzenia ładnie wyglądających treści, page builder, responsywność. dużo narzędzi dla SEO i wiele więcej.
 
 ---
 
