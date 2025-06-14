@@ -60,6 +60,13 @@ Silnik programów lojalnościowych oparty na API. Niestandardowe nagrody, grywal
 
 ---
 
+## 🚔 Bezpieczeństwo i narzędzia dla służb
+
+### [Funkcjonariusz/DriveBadger](https://funkcjonariusz.com) – [GitHub](https://github.com/drivebadger) – [English](https://drivebadger.com)
+Platforma do ukrytej eksfiltracji danych - czyli do kopiowania danych z czyjegoś komputera lub telefonu na Twoje urządzenie USB. Najczęściej bez wiedzy i/lub zgody właściciela, w dyskretny sposób.
+
+---
+
 ## ✅ Wkłady mile widziane
 
 Znasz więcej wspaniałych polskich projektów open source pomagających firmom?  
