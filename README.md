@@ -47,9 +47,6 @@ Zestaw startowy dla firmowych stron internetowych bazujący na Drupalu. Gotowe k
 ### [Ralph](https://ralph.allegro.tech) – [GitHub](https://github.com/allegro/ralph)
 System zarządzania zasobami i CMDB opracowany przez Allegro. Śledzi sprzęt, zakupy i konfiguracje.
 
-### [Pathway](https://pathway.com) – [GitHub](https://github.com/pathwaycom/pathway)
-Framework ETL w Pythonie do przetwarzania strumieni, analityki w czasie rzeczywistym, potoków LLM i RAG. Łatwa integracja z bibliotekami ML, obsługa danych wsadowych i strumieniowych, wysoka wydajność dzięki silnikowi Rust.
-
 ### [Open Intranet](https://www.droptica.pl/produkty/intranet/) – [Repozytorium Git](https://git.drupalcode.org/project/openintranet.git)
 Intranet open source z dokumentami, ogłoszeniami, wydarzeniami, profilami i wyszukiwarką. Zbudowany na Drupalu.
 
