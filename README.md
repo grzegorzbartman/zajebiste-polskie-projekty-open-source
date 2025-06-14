@@ -47,6 +47,10 @@ Zestaw startowy dla firmowych stron internetowych bazujący na Drupalu. Gotowe k
 ### [Ralph](https://ralph.allegro.tech) – [GitHub](https://github.com/allegro/ralph)
 System zarządzania zasobami i CMDB opracowany przez Allegro. Śledzi sprzęt, zakupy i konfiguracje.
 
+---
+
+## 💬 Komunikacja wewnętrzna i współpraca
+
 ### [Open Intranet](https://www.droptica.pl/produkty/intranet/) – [Repozytorium Git](https://git.drupalcode.org/project/openintranet.git)
 Intranet open source z dokumentami, ogłoszeniami, wydarzeniami, profilami i wyszukiwarką. Zbudowany na Drupalu.
 
