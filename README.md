@@ -36,6 +36,9 @@ Kompletny system CRM open source z ponad 80 modułami biznesowymi. Obsługuje sp
 ### [qcadoo MES](https://www.qcadoo.com/open-sourceq/) – [GitHub](https://github.com/qcadoo/mes)
 System zarządzania produkcją (MES) dla małych i średnich firm. Łączy funkcje dużych systemów ERP, dostosowując je do specyfiki MŚP. Dostępny jako darmowa wersja Community Edition na licencji AGPL oraz komercyjna wersja SaaS.
 
+### [SoftCRM](https://github.com/kamgrzeski/SoftCRM)
+Kompleksowy system CRM dla firm B2B napisany w Laravel 11. Oferuje zarządzanie klientami, pracownikami, umowami, produktami, zadaniami i sprzedażą. Zawiera szczegółowe statystyki dzienne, tygodniowe i roczne.
+
 ---
 
 ## 🌐 CMS i strony internetowe
