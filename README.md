@@ -31,14 +31,14 @@ Nowoczesny backend e-commerce wykorzystujący Python/Django i GraphQL. Podejści
 ## 💼 Systemy CRM / ERP
 
 ### [YetiForce](https://yetiforce.com) – [GitHub](https://github.com/YetiForceCompany/YetiForceCRM)
-Kompletny system CRM open source z ponad 80 modułami biznesowymi. Obsługuje sprzedaż, HR, wsparcie i wiele więcej.
+Kompletny system CRM open source z ponad 80 modułami biznesowymi. Obsługuje sprzedaż, HR, wsparcie i wiele więcej. Projekt nie jest ju rozwijany na github - informacja na github: This repository was archived by the owner on Sep 13, 2024. It is now read-only.
 
 ---
 
 ## 🌐 CMS i strony internetowe
 
 ### [Droopler CMS](https://www.droopler.com) – [Drupal.org](https://www.drupal.org/project/droopler)
-Zestaw startowy dla firmowych stron internetowych bazujący na Drupalu. Gotowe komponenty, strony docelowe, responsywność. dużo narzędzi dla SEO, Polskie wsparcie.
+Zestaw startowy dla firmowych stron internetowych bazujący na Drupalu. Gotowe komponenty, strony docelowe, responsywność. dużo narzędzi dla SEO.
 
 ---
 
@@ -47,8 +47,10 @@ Zestaw startowy dla firmowych stron internetowych bazujący na Drupalu. Gotowe k
 ### [Ralph](https://ralph.allegro.tech) – [GitHub](https://github.com/allegro/ralph)
 System zarządzania zasobami i CMDB opracowany przez Allegro. Śledzi sprzęt, zakupy i konfiguracje.
 
-### [Open Intranet](https://www.drupal.org/project/openintranet) – [Repozytorium Git](https://git.drupalcode.org/project/openintranet.git)
+### [Open Intranet](https://www.droptica.pl/produkty/intranet/) – [Repozytorium Git](https://git.drupalcode.org/project/openintranet.git)
 Intranet open source z dokumentami, ogłoszeniami, wydarzeniami, profilami i wyszukiwarką. Zbudowany na Drupalu.
+
+
 
 ---
 
