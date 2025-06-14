@@ -50,14 +50,6 @@ System zarządzania zasobami i CMDB opracowany przez Allegro. Śledzi sprzęt, z
 ### [Open Intranet](https://www.drupal.org/project/openintranet) – [Repozytorium Git](https://git.drupalcode.org/project/openintranet.git)
 Intranet open source z dokumentami, ogłoszeniami, wydarzeniami, profilami i wyszukiwarką. Zbudowany na Drupalu.
 
-
----
-
-## 🎁 Programy lojalnościowe i angażowanie klientów
-
-### [Open Loyalty](https://www.openloyalty.io) – [GitHub](https://github.com/DivanteLtd/open-loyalty)
-Silnik programów lojalnościowych oparty na API. Niestandardowe nagrody, grywalizacja, poziomy klientów. Stworzony we Wrocławiu.
-
 ---
 
 ## 🚔 Bezpieczeństwo i narzędzia dla służb
