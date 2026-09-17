@@ -31,7 +31,7 @@ Nowoczesny backend e-commerce wykorzystujący Python/Django i GraphQL. Podejści
 ## 💼 Systemy CRM / ERP
 
 ### [YetiForce](https://yetiforce.com) – [GitHub](https://github.com/YetiForceCompany/YetiForceCRM)
-Kompletny system CRM open source z ponad 80 modułami biznesowymi. Obsługuje sprzedaż, HR, wsparcie i wiele więcej. Projekt nie jest ju rozwijany na github - informacja na github: This repository was archived by the owner on Sep 13, 2024. It is now read-only.
+Kompletny system CRM open source z ponad 80 modułami biznesowymi. Obsługuje sprzedaż, HR, wsparcie i wiele więcej. Projekt nie jest już rozwijany na github - informacja na github: This repository was archived by the owner on Sep 13, 2024. It is now read-only.
 
 ### [qcadoo MES](https://www.qcadoo.com/open-sourceq/) – [GitHub](https://github.com/qcadoo/mes)
 System zarządzania produkcją (MES) dla małych i średnich firm. Łączy funkcje dużych systemów ERP, dostosowując je do specyfiki MŚP. Dostępny jako darmowa wersja Community Edition na licencji AGPL oraz komercyjna wersja SaaS.
@@ -87,4 +87,4 @@ Szczegółowe instrukcje znajdziesz w pliku [KONTRYBUOWANIE.md](./KONTRYBUOWANIE
 
 ## Licencja
 
-[MIT](./LICENCJA.md) 
+[MIT](./LICENCJA.md)
