@@ -76,6 +76,13 @@ Platforma do ukrytej eksfiltracji danych - czyli do kopiowania danych z czyjego�
 
 ---
 
+## 📄 Dokumenty i PDF
+
+### [Nyxiontech PDF Tools](https://tools.nyxiontech.com) – [GitHub](https://github.com/jurecki007/nyxiontech-tools)
+Zestaw 25 narzędzi do PDF i obrazów działających w przeglądarce: łączenie, dzielenie, kompresja, podpis, wypełnianie formularzy, anonimizacja, konwersja i OCR po polsku i angielsku. Nie ma backendu, więc pliki nie opuszczają urządzenia, co ma znaczenie przy dokumentach z danymi osobowymi. Bez konta, limitów i znaków wodnych. TypeScript, AGPL-3.0, z możliwością self-hostingu. Jest też wersja na Windows, która działa bez dostępu do sieci.
+
+---
+
 ## ✅ Wkłady mile widziane
 
 Znasz więcej wspaniałych polskich projektów open source pomagających firmom?  
