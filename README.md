@@ -39,6 +39,9 @@ System zarządzania produkcją (MES) dla małych i średnich firm. Łączy funkc
 ### [SoftCRM](https://github.com/kamgrzeski/SoftCRM)
 Kompleksowy system CRM dla firm B2B napisany w Laravel 11. Oferuje zarządzanie klientami, pracownikami, umowami, produktami, zadaniami i sprzedażą. Zawiera szczegółowe statystyki dzienne, tygodniowe i roczne.
 
+### [Firmowid](https://firmowid.pl) – [GitHub](https://github.com/Alergeek-Ventures/firmowid)
+System dla małych firm usługowych, który łączy faktury, bank i czas pracy. Wystawia faktury i wysyła je do KSeF, pobiera z KSeF faktury kosztowe, przez Open Banking paruje przelewy z fakturami, a z godzin pracy i stawek wylicza koszt projektu. Ma też wnioski urlopowe, delegacje, asystenta AI i połączenie z Claude oraz ChatGPT przez MCP. Napisany w Elixirze i Phoenix LiveView, na licencji AGPL-3.0; można go uruchomić u siebie albo korzystać z wersji w chmurze z darmowym planem bez limitu faktur.
+
 ---
 
 ## 🌐 CMS i strony internetowe
